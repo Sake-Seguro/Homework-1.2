@@ -1,0 +1,17 @@
+# .gitignore list
+
+tmp/
+
+Thumbs.db
+
+*.DS_Store
+
+*.*_old
+
+*.*_backup
+
+
+
+
+
+
